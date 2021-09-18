@@ -1,5 +1,5 @@
 # Indian-Sign-Language-Recognition-System
-Sign Language Recognition System using Computer Vision techniques and Deep Learning,  
+Sign language recognition system using computer vision techniques and deep learning,  
 based on https://github.com/EvilPort2/Sign-Language .
 
 ## Changes from original repository
