@@ -1,9 +1,3 @@
 # Indian-Sign-Language-Recognition-System
-Sign language recognition system using computer vision techniques and deep learning,  
+A system for recognition of alphabets and digits of Indian Sign Language (ISL), which uses computer vision techniques and deep learning,  
 based on https://github.com/EvilPort2/Sign-Language .
-
-## Changes from original repository
-* This system is for recognition of Indian Sign Language which uses both hands for most gestures,  
-  while the original repo was for American Sign Language in which only one hand is used.
-* This system uses Adaptive Thresholding instad of Local Thresholding while tracing the contour of the hand,  
-  which allows it to detect edges of individual fingers even when placed on the other hand.
